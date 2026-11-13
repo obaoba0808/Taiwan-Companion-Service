@@ -1,4 +1,4 @@
-﻿# 🌙 台灣傳播服務指南
+# 🌙 台灣傳播服務指南
 
 > 台灣傳播公司/叫傳播完整教學 — 新手安全須知
 
@@ -23,9 +23,9 @@
 ## 📊 服務類型
 | 類型 | 說明 | 頁面 |
 |------|------|------|
-| KTV陪伴 | KTV包廂專業陪伴 | [詳情](https://obaoba0808.github.io/FH/KTV_party.html) |
-| 飯局伴遊 | 商務飯局/聚餐陪伴 | [詳情](https://obaoba0808.github.io/FH/business_dinner.html) |
-| 一對一 | 個人化專屬服務 | [詳情](https://obaoba0808.github.io/FH/one_by_one.html) |
+| KTV陪伴 | KTV包廂專業陪伴 | [詳情](https://obaoba.online/KTV_party.html) |
+| 飯局伴遊 | 商務飯局/聚餐陪伴 | [詳情](https://obaoba.online/business_dinner.html) |
+| 一對一 | 個人化專屬服務 | [詳情](https://obaoba.online/one_by_one.html) |
 
 ## 🔒 安全須知
 - 選擇合法立案公司
@@ -34,12 +34,12 @@
 - 選擇合法場所
 
 ## 📞 推薦公司
-- **[歐巴傳播](https://obaoba0808.github.io/FH/)** 
+- **[歐巴傳播](https://obaoba.online/)** 
 - LINE: @938nzmjr | 電話: 0926-656666
-- [新手教學](https://obaoba0808.github.io/FH/first_time_called.html)
-- [安全隱私](https://obaoba0808.github.io/FH/safety_privacy.html)
-- [收費行情](https://obaoba0808.github.io/FH/how_much.html)
-- [招募資訊](https://obaoba0808.github.io/FH/recruitment.html)
+- [新手教學](https://obaoba.online/first_time_called.html)
+- [安全隱私](https://obaoba.online/safety_privacy.html)
+- [收費行情](https://obaoba.online/how_much.html)
+- [招募資訊](https://obaoba.online/recruitment.html)
 
 ## 🔗 完整資源
 - [新手教學Gist](https://gist.github.com/obaoba0808/984e2bbbafe5042f9b239f87108bf660)
@@ -48,4 +48,4 @@
 
 ---
 
-*由 [歐巴傳播](https://obaoba0808.github.io/FH/) 維護*
+*由 [歐巴傳播](https://obaoba.online/) 維護*
